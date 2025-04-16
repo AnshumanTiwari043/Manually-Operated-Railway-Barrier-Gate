@@ -1,4 +1,4 @@
-⚙️ Manually Operated Railway Barrier Gate
+# ⚙️ Manually Operated Railway Barrier Gate
 
 📌 Project Overview
 The Manually Operated Railway Barrier Gate is a functional mechanical system designed and constructed as part of an academic group project. The goal was to develop a manually controlled crossing barrier to enhance safety at the college staff colony railway entrance.
