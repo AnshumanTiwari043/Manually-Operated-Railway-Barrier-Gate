@@ -1,14 +1,18 @@
 # ⚙️ Manually Operated Railway Barrier Gate
 
-📌 Project Overview
+## 📌 Project Overview
 The Manually Operated Railway Barrier Gate is a functional mechanical system designed and constructed as part of an academic group project. The goal was to develop a manually controlled crossing barrier to enhance safety at the college staff colony railway entrance.
 
 The project involved the full design-to-installation process, including mechanical fabrication, raw material procurement, workshop execution, and administrative coordination. It serves as a practical demonstration of mechanical project execution in real-world conditions.
 
-✅ Project Status: Completed (January 2025)
+---
+
+## ✅ Project Status: Completed (January 2025)
 The barrier gate is successfully installed and operational. It is used regularly to control passage across the campus railway track.
 
-🧠 Key Responsibilities
+---
+
+## 🧠 Key Responsibilities
 
 Led the team as Project Leader, ensuring smooth coordination and task delegation.
 
@@ -20,7 +24,9 @@ Coordinated with faculty and authorities for official approvals and installation
 
 Ensured project was completed on time and safely, with attention to precision and teamwork.
 
-🛠️ Technologies & Tools
+---
+
+## 🛠️ Technologies & Tools
 
 Lathe Machine Operations
 
@@ -34,7 +40,9 @@ Workshop Safety Practices
 
 Team Coordination & Project Planning
 
-🎯 Project Goals
+---
+
+## 🎯 Project Goals
 
 Build a fully mechanical, manually operated barrier gate for real-world application.
 
